@@ -1,0 +1,3 @@
+name, age, place of work
+chisom, 25, google
+chiamaka, 23, john hopkins

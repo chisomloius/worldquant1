@@ -1,0 +1,4 @@
+This is now my of writing python filesI am now practising writing data to disk
+ It is a cool feature everyone can learn to do
+It is a cool feature everyone can learn to do
+It is a cool feature everyone can learn
